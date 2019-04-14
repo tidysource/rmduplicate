@@ -1,0 +1,30 @@
+{
+  "name": "rmduplicate",
+  "version": "1.0.1",
+  "description": "Removes duplicate values from an array",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielcobo/rmDuplicate.git"
+  },
+  "keywords": [
+    "array",
+    "duplicate",
+    "unique"
+  ],
+  "author": "TidySource (Daniel Cobo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielcobo/rmDuplicate/issues"
+  },
+  "homepage": "https://github.com/danielcobo/rmDuplicate#readme",
+  "devDependencies": {
+    "tidytest": "^1.0.0"
+  }
+}
